@@ -12,7 +12,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center; 
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(windows.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(windows.jpg);
     background-size: cover;
     background-position: center; 
 }
